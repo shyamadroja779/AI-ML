@@ -23,7 +23,7 @@
 <br>
 
  <h3>Contact</h3>
- If you want to reach me: shyamadroja779@gmail.com
+ If you want to reach me:  <a></a>shyamadroja779@gmail.com</a>
 
 <br><br>
  Thanks to the course instructor, TAs, and open-source libraries like NumPy, Pandas, scikit-learn, Matplotlib,<br>
