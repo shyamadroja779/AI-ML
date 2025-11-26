@@ -24,7 +24,7 @@
 
  <h3>Contact</h3>
  If you want to reach me:  <a href="mailto:shyamadroja779@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" alt="gmail logo"  />
+    shyamadroja779@gmail.com
   </a>
 
 <br><br>
