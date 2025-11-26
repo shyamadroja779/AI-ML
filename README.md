@@ -1,4 +1,4 @@
-# ML
+# Machine Learning
 
  Course: Machine Learning<br>
  Instructor: Jayesh D. Vagadiya<br>
