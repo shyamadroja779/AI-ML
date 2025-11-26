@@ -23,7 +23,9 @@
 <br>
 
  <h3>Contact</h3>
- If you want to reach me:  <a></a>shyamadroja779@gmail.com</a>
+ If you want to reach me:  <a href="mailto:shyamadroja779@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
 
 <br><br>
  Thanks to the course instructor, TAs, and open-source libraries like NumPy, Pandas, scikit-learn, Matplotlib,<br>
